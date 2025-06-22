@@ -1,14 +1,11 @@
 # PIP_Analyzer
 Repositorio dedicado al desarrollo de una APP, para analizar PIP con miras a un escalable como trading machine.
-#####################################################################
 
 #
 
 #
 
-#
-
-Proyecto minimo viable:
+# Proyecto minimo viable:
 
 1.- Visualizador de velas y barras de resistencia y soporte.
 
@@ -19,7 +16,7 @@ Proyecto minimo viable:
 3.- Llamado de accion para Sentiment Analysis de fuente confiable para respaldo de entrada.
 
 
-Historial de versiones documentadas:
+# Historial de versiones documentadas:
 
 
 -ver 0.1 (23/06/2025):
